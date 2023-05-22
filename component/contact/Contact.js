@@ -31,8 +31,8 @@ return (
   <article className='contact__option'>
   <MdOutlineEmail className='contact__option__icon'/>
   <h4>Email</h4>
-  <h5>myEmail@gmail.com</h5>
-  <a href='mailto:aldenovpoutine99@gmail.com' target='_blank'>send a
+  <h5>wendydjoumessi112@gmail.com</h5>
+  <a href='wendydjoumessi112@gmail.com' target='_blank'>send a
   message</a>
   </article>
   
@@ -41,7 +41,7 @@ return (
   <h4>LinkedIn</h4>
   <h5>Profile</h5>
   <a href='https://www.linkedin.com/in/wendy/'
-  target='_blank'>Tape me on LinkedIn</a>
+  target='_blank'rel="noreferrer">Tape me on LinkedIn</a>
   </article>
   
   <article className='contact__option'>
@@ -49,7 +49,7 @@ return (
   <h4>Whatsapp</h4>
   <h5>Direct message</h5>
   <a href='https://web.whatsapp.com/send?phone=+237654561952'
-  target='_blank'>Whatsapp me</a>
+  target='_blank' rel="noreferrer">Whatsapp me</a>
   </article>
   </div>
   

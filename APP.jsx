@@ -19,7 +19,6 @@ import Portfolio from './component/portfolio/Portfolio'
 import Testimonial from './component/testimonial/Testimonial'
 import Contact from './component/contact/Contact' 
 import Footer from './component/footer/Footer'
-import Headersocial from './component/header/Headersocial';
 
 
  //THIS LINE INDICATE THAT
@@ -29,17 +28,18 @@ import Headersocial from './component/header/Headersocial';
 function App() {
   return (
   <>
-  <Header/>
-  <Navbar/>
-  <About/>
-  <Experience/>
-  <Services/>
-  <Portfolio/>
-  <Testimonial/>
-  <Contact/>
-  <Footer/>
-  <Headersocial/>
-  </>
+<Header/>
+<Navbar/>
+<About/>
+<Experience/>
+<Services/>
+<Portfolio/>
+<Testimonial/>
+<Contact/>
+<Footer/>
+
+</>
+
   );
   }
 
