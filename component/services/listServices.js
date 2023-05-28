@@ -3,7 +3,13 @@ import axios from 'axios';
 import {BiCheck} from 'react-icons/bi'
 
 const ListServices = () => {
-    const [data, setData] = useState([])
+    const [data, setData] = useState([
+      {
+        title: 'service 1',
+        description: 'i offer custom graphic designing'
+
+      }
+    ])
 
     useEffect(() =>{
         getServices()

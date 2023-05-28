@@ -40,7 +40,7 @@ return (
   <AiOutlineLinkedin className='contact__option__icon'/>
   <h4>LinkedIn</h4>
   <h5>Profile</h5>
-  <a href='https://www.linkedin.com/in/wendy/'
+  <a href='https://www.linkedin.com/in/wendy-djoumessi-34107125b/'
   target='_blank'rel="noreferrer">Tape me on LinkedIn</a>
   </article>
   
