@@ -4,30 +4,7 @@ import axios from "axios";
 
 
 const ListExperiences = () => {
-  const [data, setData] = useState([
-    /* {
-      title:'programming',
-      description: 'I master HTML/CSS , C/C++ language, java and also programming a microcontroller',
-      id:1,
-    },
-    {
-      title:'graphics designing',
-      description:'I have used figma , pixellab for designing flyers , visit cards and logos',
-      id: 2,
-    },
-    {
-      title:'Language',
-      description:'i master both English and French',
-      id:3,
-
-    },
-    {
-      title:'Web designing',
-      description:'Backend and Frontend ',
-      id:4,
-    },*/
-
-  ]);
+  const [data, setData] = useState([]);
 
   useEffect(() => {
    getExperiences();

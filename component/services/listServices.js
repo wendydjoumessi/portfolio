@@ -5,9 +5,18 @@ import {BiCheck} from 'react-icons/bi'
 const ListServices = () => {
     const [data, setData] = useState([
       {
-        title: 'service 1',
+        title: 'UI/UX DESIGN',
         description: 'i offer custom graphic designing'
 
+      },
+
+      {
+        title: 'WEB DEVELOPMENT',
+        description: 'we provide good web services'
+      },
+      {
+        title:'CONTENT CREATION',
+        description:'lorem , ipsum dolor sit consectecto'
       }
     ])
 
