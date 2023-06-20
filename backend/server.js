@@ -76,7 +76,7 @@ app.use("/services",serviceRoutes);
 app.use("/", (req, res)=>{
   return (
       res.status(200).json({
-          message: "Root URL, Please navigate to a valid Endpoint"
+          message: "Welcome to the Root URL, Please navigate to a valid Endpoint"
       })
   )
 })
