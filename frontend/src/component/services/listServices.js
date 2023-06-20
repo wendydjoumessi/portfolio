@@ -16,7 +16,7 @@ const ListServices = () => {
       },
       {
         title:'CONTENT CREATION',
-        description:'lorem , ipsum dolor sit consectecto'
+        description:'i provide quality content'
       }
     ])
 
