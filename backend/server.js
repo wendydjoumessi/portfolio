@@ -10,7 +10,7 @@ const experienceRoutes = require("./routes/experienceRoutes");
 const testimonialRoutes = require("./routes/testimonialRoutes");
 const serviceRoutes = require("./routes/serviceRoutes");
 require('dotenv').config({path:'.env'});
-const app = express() ;
+const app = express();
 
 
 

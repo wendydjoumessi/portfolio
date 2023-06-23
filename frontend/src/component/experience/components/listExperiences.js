@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { BsPatchCheckFill } from "react-icons/bs";
 import axios from "axios";
+import"./experience.css";
 
 
 const ListExperiences = () => {
