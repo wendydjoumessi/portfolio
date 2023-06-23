@@ -12,7 +12,7 @@
   transition: var(--transition);
 }
 
-.experience__container>div:hover{
+.experience__container > div:hover{
   background: transparent;
   border-color: var(--color-primary-variant);
   cursor: default;
