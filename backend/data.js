@@ -1,16 +1,16 @@
 const TESTIMONIAL =[
   {
-    "clientName" : "Djoumessi Lekane",
+    "clientName" : "Kenfack Audrey",
    
     "clientProfile" : "https://console.firebase.google.com/project/image-respository-e99d0/storage/image-respository-e99d0.appspot.com/files",
     "TestimonialMessage" : "She is amazing! , i am very happy to know someone like her because she is hard working and i like it.",
   },
 
-  // {
-  //   "Clientname" : "No name",
-  //   "TestimonialMessage" : "wendy is a friend of mine and she is hard working",
-  //   "ClientImage" :
-  // },
+   {
+   "clientName" : "No name",
+   "TestimonialMessage" : "wendy is a friend of mine and she is hard working",
+    //"ClientImage" :
+  },
 ]
 
 const PROJECT = [
