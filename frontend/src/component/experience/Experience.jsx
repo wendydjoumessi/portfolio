@@ -23,7 +23,7 @@ const Experience = () => {
       <h5>What Skills I have</h5>
       <h2>My Experience</h2>
 
-      <div className="container experience_container">
+      <div className="container experience__container">
 
         {
           experienceData.map((expi, index) => {
